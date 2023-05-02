@@ -1,7 +1,7 @@
 # Anti-spoofing-recognition
 To detect fake faces and images from the original owners face
  
-# Basic Layout of how thw app looks like
+# Basic Layout of how the app looks like
 
 First of all I had designed the basic layout of the app using Excalidraw
 Opening Page
