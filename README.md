@@ -13,6 +13,9 @@ In order to build the app we will be using Tkinter because Python Tkinter is the
 
 in order to install tkinter in python we have to type in the following command: pip install tk
 
+# Creation of the GUI
+Webcam access with GUI
+
 
 
 
