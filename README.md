@@ -21,8 +21,8 @@ Registration of User
 ![Screenshot (19)](https://user-images.githubusercontent.com/127100541/235643546-60a7ddee-3a7b-46e6-9d30-1c758da655d9.png)
 
 
-#Output
-Registration and Verification
+# Output Registration and Verification
+![Screenshot (20)](https://user-images.githubusercontent.com/127100541/235653166-5ba68d1e-7539-4006-939d-574e0114a09e.png)
 
 
 
