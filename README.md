@@ -22,10 +22,17 @@ Registration of User
 
 
 # Output Registration and Verification
-Person 1
+Person 1(Noel Saji)
 ![Screenshot (20)](https://user-images.githubusercontent.com/127100541/235653166-5ba68d1e-7539-4006-939d-574e0114a09e.png)
 
-Person 2
+Person 2(Jeziah)
+![Screenshot (25)](https://user-images.githubusercontent.com/127100541/235831916-d2e2a8f3-2930-41ba-a242-df31b988f6a5.png)
+
+Person 3(Sadhanandham)
+![Screenshot (22)](https://user-images.githubusercontent.com/127100541/235832005-6df5db5d-faef-4a8a-83a4-11243e8f2a88.png)
+
+Person 4(Malarvizhi)
+![Screenshot (22)](https://user-images.githubusercontent.com/127100541/235832089-ce00e494-ae4b-4a5c-b9d2-1f258666a160.png)
 
 
 
