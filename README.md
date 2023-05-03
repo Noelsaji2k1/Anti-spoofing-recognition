@@ -22,7 +22,10 @@ Registration of User
 
 
 # Output Registration and Verification
+Person 1
 ![Screenshot (20)](https://user-images.githubusercontent.com/127100541/235653166-5ba68d1e-7539-4006-939d-574e0114a09e.png)
+
+Person 2
 
 
 
