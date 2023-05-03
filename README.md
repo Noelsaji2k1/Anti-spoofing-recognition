@@ -29,7 +29,7 @@ Person 2(Jeziah)
 ![Screenshot (25)](https://user-images.githubusercontent.com/127100541/235831916-d2e2a8f3-2930-41ba-a242-df31b988f6a5.png)
 
 Person 3(Sadhanandham)
-![Screenshot (22)](https://user-images.githubusercontent.com/127100541/235832005-6df5db5d-faef-4a8a-83a4-11243e8f2a88.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/127100541/235832206-1bf4df1d-7ea5-496c-abf4-b459a0fc7b18.png)
 
 Person 4(Malarvizhi)
 ![Screenshot (22)](https://user-images.githubusercontent.com/127100541/235832089-ce00e494-ae4b-4a5c-b9d2-1f258666a160.png)
